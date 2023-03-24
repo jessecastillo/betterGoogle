@@ -10,6 +10,8 @@ valid_websites = [
     'medium.com',
     'github.com',
     'youtube.com',
+    'google.com',
+    'codepen.io',
 ]
 
 safari_path = 'open -a safari %s'
